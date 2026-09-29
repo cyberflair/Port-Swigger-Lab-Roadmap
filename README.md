@@ -16,20 +16,3 @@ A structured tracking repository, documentation vault, and methodology cheat she
 
 ---
 
-## 🗂️ Repository Structure
-
-```text
-.
-├── 📂 sql-injection/
-│   ├── 📄 lab-01-retrieving-unhidden-data.md
-│   ├── 📄 lab-02-subverting-login-logic.md
-│   └── 📄 README.md
-├── 📂 xss/
-│   ├── 📂 DOM-XSS/
-│   ├── 📂 Reflected-XSS/
-│   └── 📂 Stored-XSS/
-├── 📂 csrf/
-├── 📂 ssrf/
-├── 📂 authentication/
-├── 📂 scripts/           # Custom Python automation scripts
-└── 📄 PROGRESS.md        # Interactive checklist & status tracker
